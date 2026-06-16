@@ -1,0 +1,3 @@
+echo "new work" > work.txt
+git add .
+git commit -m "added work"
